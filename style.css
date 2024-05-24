@@ -87,4 +87,11 @@ footer {
 
 #minhafoto{
     border-radius: 60px;
+    border-color: #d714ed;
+    border: 4px;
+    width: 300px;
+}
+#para {
+    text-align: center;
+   font-size: larger;
 }
